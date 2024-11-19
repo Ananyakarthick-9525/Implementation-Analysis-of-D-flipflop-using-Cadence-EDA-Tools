@@ -47,7 +47,7 @@ ii)	Create Schematic Cell view.
 	Create Input and Output pins
 	Make the connections by using fixed narrow wire key
 	Click Check and Save button
-![IMG-20241019-WA0012]("C:\Users\acer\Pictures\Screenshots\Screenshot 2024-11-13 181147.png")
+![Screenshot 2024-11-19 183711](https://github.com/user-attachments/assets/8de7093e-9176-4e17-b46f-460ac4be971e)
 
 
 
@@ -66,7 +66,8 @@ iii)	Creating the Symbol for schematic Cell view
 •	Check for the position of pin side.Prss OK
 •	Edit for the shape by Create-Shape-Choose required options to edit.
 
-![IMG-20241019-WA0009]("C:\Users\acer\Pictures\Screenshots\Screenshot 2024-11-13 181201.png")
+![Screenshot 2024-11-19 183501](https://github.com/user-attachments/assets/bfe6bb74-26a9-4712-ac3c-466b50edc783)
+
 
 iv)	Creating the new test cell view
 
@@ -78,7 +79,8 @@ iv)	Creating the new test cell view
 	Type: Schematic press OK
 •	Follow the step 3(ii) d to make the required connections
 
-![IMG-20241019-WA0011]("C:\Users\acer\Pictures\Screenshots\Screenshot 2024-11-13 181211.png")
+![Screenshot 2024-11-19 183511](https://github.com/user-attachments/assets/fcab8f8a-3b40-487d-8d2c-a91b34ccce89)
+
 
 
  
@@ -93,13 +95,15 @@ Analog simulation by SPECTRE.
 	Then Select the INPUT WIRE(Vin ) and OUTPUT WIRE(Vout) from your test Schematic using mouse
 •	Execute Simulation -- Net list and Run
  
-![IMG-20241019-WA0010]("C:\Users\acer\Pictures\Screenshots\Screenshot 2024-11-13 181222.png")
+![Screenshot 2024-11-19 183523](https://github.com/user-attachments/assets/e1b05c81-1c4e-4c87-bf3e-bc27834e182a)
+
 
 
 For Transient Analysis Settings and Output
  
- ![IMG-20241019-WA0013]("C:\Users\acer\Pictures\Screenshots\Screenshot 2024-11-13 181232.png")
- ![IMG-20241019-WA0014]("C:\Users\acer\Pictures\Screenshots\Screenshot 2024-11-13 181246.png")
+![Screenshot 2024-11-19 183530](https://github.com/user-attachments/assets/08860479-be19-4310-aeef-0354fb7eb472)
+![Screenshot 2024-11-19 183541](https://github.com/user-attachments/assets/b33e3316-8190-45db-8a91-0458d20f4f67)
+
 
 
 Results:
